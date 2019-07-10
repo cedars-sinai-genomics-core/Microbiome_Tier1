@@ -1,4 +1,7 @@
 # Microbiome
+
+####Version 1 is the original one, having different check points; Version 2 combine all of steps into one
+
 ####Good review paper  
 https://www.nature.com/articles/nrg3129
 https://www.nature.com/articles/s41579-018-0029-9
@@ -8,6 +11,8 @@ https://www.nature.com/articles/s41579-018-0029-9
 Analysis for ITS1 and 16S (Version2)
 
 Pipeline running:
+
+###The pipeline must be run under genomics account
 
 ```bash
 $ source activate qiime1
