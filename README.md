@@ -84,3 +84,8 @@ Recommend >5000 aligned reads per sample
 * QIIME v1 is more mature than QIIME v2 and QIIME v2 has problem of over clustering  
 * Other tools to consider: DaDa, Mothur  
 * To evaluate the new database, it is good to compare the mapping% (unique mapping)  
+
+
+For Tier2 analysis pipeline:
+- please use the online tool https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/home.xhtml (https://academic.oup.com/nar/article/45/W1/W180/3760191)
+
