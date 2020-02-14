@@ -1,18 +1,18 @@
 # Microbiome
 
-####Version 1 is the original one, having different check points; Version 2 combine all of steps into one
+* Version 1 is the original one, having different check points; Version 2 combine all of steps into one
 
-####Good review paper  
+### Good review paper  
 https://www.nature.com/articles/nrg3129
 https://www.nature.com/articles/s41579-018-0029-9
-####common issues are usually from PCR bias(primer bias, length bias)
-####common sequencing layout: 2X300bp on MiSeq
+* common issues are usually from PCR bias(primer bias, length bias)
+* common sequencing layout: 2X300bp on MiSeq
 
-Analysis for ITS1 and 16S (Version2)
+### Analysis for ITS1 and 16S (Version2)
 
 Pipeline running:
 
-###The pipeline must be run under genomics account
+#### The pipeline must be run under genomics account
 
 ```bash
 $ source activate qiime1
