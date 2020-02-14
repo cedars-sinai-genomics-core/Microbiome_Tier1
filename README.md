@@ -85,7 +85,7 @@ QC to check:
 * To evaluate the new database, it is good to compare the mapping% (unique mapping)  
 
 
-For Tier1 report generation:
+#### For Tier1 report generation:
 * please use the online tool https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/home.xhtml (https://academic.oup.com/nar/article/45/W1/W180/3760191)
 
 * three demo data: meta.csv, otu.csv, taxo.csv
