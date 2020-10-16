@@ -22,6 +22,16 @@ $ source activate qiime1
 $ nohup bash /common/genomics-core/apps/microbiome/pipeline.sh > log.txt 2>&1&
 ```
 
+Run the 16S pipeline using swift kit
+```bash
+$ nohup bash /common/genomics-core/apps/microbiome/pipeline_16S_Swift.sh > log.txt 2>&1&
+```
+
+Run the ITS1 and ITS2 pipeline using swift kit
+```bash
+$ nohup bash /common/genomics-core/apps/microbiome/pipeline_ITS1_ITS2_Swift.sh > log.txt 2>&1&
+```
+
 #### Step 1:  Trim primers with cutadapt
 #### Forward primer(19-20bp) and reverse primer(~22bp) are used to amplify the variable regions(from 18S to 5.8S for ITS as example) to identify the microbiome species
 #### Screen out reads that do not begin with primer sequence and remove primer sequences from reads 
